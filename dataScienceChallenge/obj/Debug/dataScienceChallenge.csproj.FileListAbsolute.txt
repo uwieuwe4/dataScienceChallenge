@@ -1,0 +1,7 @@
+c:\users\730n\documents\visual studio 2015\Projects\dataScienceChallenge\dataScienceChallenge\bin\Debug\dataScienceChallenge.exe.config
+c:\users\730n\documents\visual studio 2015\Projects\dataScienceChallenge\dataScienceChallenge\obj\Debug\dataScienceChallenge.csprojResolveAssemblyReference.cache
+c:\users\730n\documents\visual studio 2015\Projects\dataScienceChallenge\dataScienceChallenge\obj\Debug\dataScienceChallenge.csproj.ResolveComReference.cache
+c:\users\730n\documents\visual studio 2015\Projects\dataScienceChallenge\dataScienceChallenge\bin\Debug\dataScienceChallenge.exe
+c:\users\730n\documents\visual studio 2015\Projects\dataScienceChallenge\dataScienceChallenge\bin\Debug\dataScienceChallenge.pdb
+c:\users\730n\documents\visual studio 2015\Projects\dataScienceChallenge\dataScienceChallenge\obj\Debug\dataScienceChallenge.exe
+c:\users\730n\documents\visual studio 2015\Projects\dataScienceChallenge\dataScienceChallenge\obj\Debug\dataScienceChallenge.pdb
